@@ -1,0 +1,21 @@
+nav { background: #fff; }
+nav a { color: #106cb7; font-weight: bold; font-size: 14px;}
+nav ul.navbar-nav a { color: #106cb7; border-style: solid; border-width: 0 0 5px 0; border-color: #fff; }
+nav ul.navbar-nav a:hover,
+nav ul.navbar-nav a:visited,
+nav ul.navbar-nav a:focus,
+nav ul.navbar-nav a:active { background: #fff; }
+nav ul.navbar-nav a:hover,
+nav.navbar-static-top ul.navbar-nav a:focus { border-color: #106cb7; }
+nav li.divider { background: #ccc; }
+nav button.navbar-toggle { background: #106cb7; border-radius: 2px; }
+nav button.navbar-toggle:hover { background: #999; }
+nav button.navbar-toggle > span.icon-bar { background: #fff; }
+nav ul.dropdown-menu { border: 0; background: #fff; border-radius: 4px; margin: 4px 0; box-shadow: 0 0 4px 0 #ccc; }
+nav ul.dropdown-menu > li > a { color: #444; }
+nav ul.dropdown-menu > li > a:hover { background: #106cb7; color: #fff; }
+.navbar { margin-bottom: 0px; }
+.top-bar { background-color: #106cb7; }
+#title { font-size: 40px; color: #FFF; }
+.container-fluid { padding: 0px; }
+main { background-color: #eee; }
