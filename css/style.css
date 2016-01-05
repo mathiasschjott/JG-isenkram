@@ -42,6 +42,7 @@ nav ul.navbar-nav a:active {
 }
 
 nav ul.navbar-nav a:hover,
+#navbar > ul > li.active > a,
 nav.navbar-static-top ul.navbar-nav a:focus { 
 	border-color: #106cb7; 
 }
