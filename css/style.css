@@ -1,6 +1,6 @@
 /* Skrevet i hånden af Mathias Hedin Schjøtt */
 /* ==============================================
-                    Header
+                     Header
 =============================================== */
 
 .topbar {
@@ -14,7 +14,7 @@
 
 /* Skrevet i hånden af Mathias Hedin Schjøtt */
 /* ==============================================
-                  Navigation
+                    Navigation
 =============================================== */
 
 nav { 
@@ -97,4 +97,24 @@ nav ul.dropdown-menu > li > a:hover {
 
 .navbar .navbar-collapse {
 	text-align: center;
+}
+
+/* Skrevet i hånden af Mathias Hedin Schjøtt */
+/* ==============================================
+                  Main content
+=============================================== */
+
+main h1 {
+
+}
+
+/* Skrevet i hånden af Mathias Hedin Schjøtt */
+/* ==============================================
+                Media Queries
+=============================================== */
+
+@media (min-width: 1200px) {
+	.container {
+		width: 1000px;
+	}
 }
